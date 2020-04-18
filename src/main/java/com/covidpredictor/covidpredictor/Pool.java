@@ -1,3 +1,5 @@
+package com.covidpredictor.covidpredictor;
+
 public class Pool{
     int size;
     Model[] pool;
