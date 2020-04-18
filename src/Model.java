@@ -1,9 +1,9 @@
 import java.util.Random
 
 public class Model {
-    double[] listMobConstants;
-    double cImmunity;
-    int mobilityLag;
+    double[] mobilityConstants;
+    double immunityConstant;
+    int lag;
     double fatalityRatio;
 
     double score = 100.0;
@@ -13,23 +13,33 @@ public class Model {
     double mobilityConstantVariability = 0.1;
     double fatalityVariability = 0.01;
 
-    public Model(float[] listMobConstants, float cImmunity, int mobilityLag, float fatalityRatio){
-        listMobConstants = listMobConstants;
-        cImmunity = cImmunity;
-        mobilityLag = mobilityLag;
-        fatalityRatio = fatalityRatio;
-
+    public Model(double[] listMobConstants, float cImmunity, int mobilityLag, float deathRatio){
+        mobilityConstants = listMobConstants;
+        immunityConstant = cImmunity;
+        lag = mobilityLag;
+        fatalityRatio = deathRatio;
     }
 
     public Model(){
         Random r = new Random();
 
-        listMobConstants = new double[5];
+        mobilityConstants = new double[5];
         for (int i = 0; i < 5; i ++) {
-            listMobConstants[i] = 2 * (r.nextDouble() - 0.5);
+            mobilityConstants[i] = 2 * (r.nextDouble() - 0.5);
         }
+        immunityConstant = r.nextDouble();
+        lag = 16;
+        fatalityRatio = r.nextDouble() / 2;
+    }
 
+    public Model mutate(){
 
     }
+
+    public Model predict(int current, double[] mobility, double infectionRate, int population){
+
+    }
+
+
 
 }
