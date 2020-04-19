@@ -1,0 +1,2324 @@
+[
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-02-29",
+    "value":4.882
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-01",
+    "value":-7.259
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-02",
+    "value":-10.204
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-03",
+    "value":1.321
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-04",
+    "value":1.7
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-05",
+    "value":9.084
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-06",
+    "value":3.158
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-07",
+    "value":10.607
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-08",
+    "value":21.861
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-09",
+    "value":-0.807
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-10",
+    "value":4.842
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-11",
+    "value":0.768
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-12",
+    "value":-2.95
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-13",
+    "value":-14.954
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-14",
+    "value":-27.434
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-15",
+    "value":-30.199
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-16",
+    "value":-29.009
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-17",
+    "value":-44.472
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-18",
+    "value":-65.302
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-19",
+    "value":-72.526
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-20",
+    "value":-77.024
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-21",
+    "value":-86.745
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-22",
+    "value":-97.06
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-23",
+    "value":-87.028
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-24",
+    "value":-91.365
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-25",
+    "value":-91.543
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-26",
+    "value":-90.732
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-27",
+    "value":-90.382
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-28",
+    "value":-92.504
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-29",
+    "value":-94.631
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-30",
+    "value":-86.693
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-03-31",
+    "value":-87.921
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-01",
+    "value":-87.086
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-02",
+    "value":-83.482
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-03",
+    "value":-83.907
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-04",
+    "value":-88.365
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-05",
+    "value":-92.628
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-06",
+    "value":-78.103
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-07",
+    "value":-74.042
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-08",
+    "value":-77.302
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-09",
+    "value":-76.938
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-10",
+    "value":-77.964
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"retail\/recreation",
+    "page":0,
+    "change":-67,
+    "changecalc":-83.7532683333,
+    "date":"2020-04-11",
+    "value":-83.753
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-02-29",
+    "value":4.902
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-01",
+    "value":0.427
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-02",
+    "value":-6.958
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-03",
+    "value":9.261
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-04",
+    "value":4.21
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-05",
+    "value":14.827
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-06",
+    "value":7.287
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-07",
+    "value":14.324
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-08",
+    "value":20.933
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-09",
+    "value":1.516
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-10",
+    "value":17.257
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-11",
+    "value":15.4
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-12",
+    "value":20.602
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-13",
+    "value":13.98
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-14",
+    "value":6.716
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-15",
+    "value":3.375
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-16",
+    "value":13.02
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-17",
+    "value":1.227
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-18",
+    "value":-6.297
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-19",
+    "value":-18.855
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-20",
+    "value":-24.894
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-21",
+    "value":-40.966
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-22",
+    "value":-51.094
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-23",
+    "value":-43.469
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-24",
+    "value":-50.022
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-25",
+    "value":-51.31
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-26",
+    "value":-51.219
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-27",
+    "value":-51.998
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-28",
+    "value":-58.728
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-29",
+    "value":-63.055
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-30",
+    "value":-52.769
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-03-31",
+    "value":-49.278
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-01",
+    "value":-49.511
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-02",
+    "value":-45.053
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-03",
+    "value":-41.711
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-04",
+    "value":-51.184
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-05",
+    "value":-56.092
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-06",
+    "value":-38.096
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-07",
+    "value":-26.815
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-08",
+    "value":-35.622
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-09",
+    "value":-34.039
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-10",
+    "value":-29.873
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"grocery\/pharmacy",
+    "page":0,
+    "change":-34,
+    "changecalc":-42.0804716667,
+    "date":"2020-04-11",
+    "value":-42.08
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-02-29",
+    "value":17.171
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-01",
+    "value":-2.109
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-02",
+    "value":9.002
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-03",
+    "value":-10.154
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-04",
+    "value":-3.559
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-05",
+    "value":15.01
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-06",
+    "value":-3.512
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-07",
+    "value":-2.231
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-08",
+    "value":-0.329
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-09",
+    "value":-2.229
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-10",
+    "value":1.536
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-11",
+    "value":15.625
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-12",
+    "value":27.137
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-13",
+    "value":7.023
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-14",
+    "value":-3.651
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-15",
+    "value":3.624
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-16",
+    "value":4.801
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-17",
+    "value":10.751
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-18",
+    "value":8.247
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-19",
+    "value":9.583
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-20",
+    "value":-1.345
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-21",
+    "value":-16.901
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-22",
+    "value":-59.7
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-23",
+    "value":-51.355
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-24",
+    "value":-57.338
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-25",
+    "value":-52.691
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-26",
+    "value":-50.119
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-27",
+    "value":-46.922
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-28",
+    "value":-35.289
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-29",
+    "value":-26.95
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-30",
+    "value":-36.094
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-03-31",
+    "value":-48.038
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-01",
+    "value":-37.326
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-02",
+    "value":-17.3
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-03",
+    "value":-20.248
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-04",
+    "value":-18.726
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-05",
+    "value":-21.284
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-06",
+    "value":-10.031
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-07",
+    "value":-1.536
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-08",
+    "value":1.649
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-09",
+    "value":3.477
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-10",
+    "value":-2.54
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"parks",
+    "page":0,
+    "change":-5,
+    "changecalc":-6.7604066667,
+    "date":"2020-04-11",
+    "value":-6.76
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-02-29",
+    "value":-1.913
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-01",
+    "value":-7.947
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-02",
+    "value":-17.544
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-03",
+    "value":6.684
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-04",
+    "value":5.493
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-05",
+    "value":16.133
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-06",
+    "value":5.183
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-07",
+    "value":-4.098
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-08",
+    "value":6.623
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-09",
+    "value":4.128
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-10",
+    "value":7.353
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-11",
+    "value":6.699
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-12",
+    "value":3.254
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-13",
+    "value":-13.38
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-14",
+    "value":-19.262
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-15",
+    "value":-22.185
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-16",
+    "value":-25.542
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-17",
+    "value":-33.021
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-18",
+    "value":-42.203
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-19",
+    "value":-45.011
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-20",
+    "value":-56.051
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-21",
+    "value":-68.033
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-22",
+    "value":-85.596
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-23",
+    "value":-80.237
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-24",
+    "value":-84.759
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-25",
+    "value":-83.333
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-26",
+    "value":-83.243
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-27",
+    "value":-82.449
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-28",
+    "value":-79.372
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-29",
+    "value":-74.172
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-30",
+    "value":-76.109
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-03-31",
+    "value":-81.684
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-01",
+    "value":-78.376
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-02",
+    "value":-70.228
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-03",
+    "value":-72.324
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-04",
+    "value":-69.262
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-05",
+    "value":-70.53
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-06",
+    "value":-65.66
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-07",
+    "value":-63.636
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-08",
+    "value":-64.041
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-09",
+    "value":-62.093
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-10",
+    "value":-65.453
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"transitstations",
+    "page":1,
+    "change":-52,
+    "changecalc":-65.3005466667,
+    "date":"2020-04-11",
+    "value":-65.301
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-02-29",
+    "value":1.908
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-01",
+    "value":-3.579
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-02",
+    "value":-35.333
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-03",
+    "value":15.365
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-04",
+    "value":11.39
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-05",
+    "value":11.835
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-06",
+    "value":17.473
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-07",
+    "value":4.268
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-08",
+    "value":8.619
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-09",
+    "value":15.976
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-10",
+    "value":15.135
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-11",
+    "value":5.893
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-12",
+    "value":-4.376
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-13",
+    "value":-5.691
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-14",
+    "value":-9.441
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-15",
+    "value":-12.248
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-16",
+    "value":-16.513
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-17",
+    "value":-29.689
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-18",
+    "value":-43.062
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-19",
+    "value":-48.977
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-20",
+    "value":-48.273
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-21",
+    "value":-55.936
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-22",
+    "value":-64.97
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-23",
+    "value":-59.45
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-24",
+    "value":-66.61
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-25",
+    "value":-68.876
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-26",
+    "value":-68.926
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-27",
+    "value":-64.673
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-28",
+    "value":-63.955
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-29",
+    "value":-62.45
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-30",
+    "value":-62.742
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-03-31",
+    "value":-64.917
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-01",
+    "value":-65.636
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-02",
+    "value":-65.446
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-03",
+    "value":-61.473
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-04",
+    "value":-59.913
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-05",
+    "value":-61.593
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-06",
+    "value":-58.591
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-07",
+    "value":-60.418
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-08",
+    "value":-61.759
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-09",
+    "value":-62.276
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-10",
+    "value":-59.927
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"residential",
+    "page":1,
+    "change":12,
+    "changecalc":-58.62002,
+    "date":"2020-04-11",
+    "value":-58.62
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-02-29",
+    "value":-0.788
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-01",
+    "value":1.399
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-02",
+    "value":7.276
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-03",
+    "value":-1.202
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-04",
+    "value":-0.018
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-05",
+    "value":-2.496
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-06",
+    "value":-1.553
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-07",
+    "value":0.624
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-08",
+    "value":-0.976
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-09",
+    "value":-1.174
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-10",
+    "value":-1.353
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-11",
+    "value":-0.715
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-12",
+    "value":0.196
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-13",
+    "value":3.599
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-14",
+    "value":4.985
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-15",
+    "value":4.283
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-16",
+    "value":7.639
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-17",
+    "value":9.7
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-18",
+    "value":14.03
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-19",
+    "value":14.875
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-20",
+    "value":16.982
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-21",
+    "value":15.189
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-22",
+    "value":18.811
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-23",
+    "value":25.214
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-24",
+    "value":27.182
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-25",
+    "value":28.134
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-26",
+    "value":27.79
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-27",
+    "value":28.564
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-28",
+    "value":21.253
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-29",
+    "value":16.559
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-30",
+    "value":24.709
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-03-31",
+    "value":25.837
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-01",
+    "value":25.4
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-02",
+    "value":23.468
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-03",
+    "value":24.311
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-04",
+    "value":17.46
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-05",
+    "value":14.624
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-06",
+    "value":20.858
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-07",
+    "value":19.687
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-08",
+    "value":19.613
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-09",
+    "value":19.312
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-10",
+    "value":20.902
+  },
+  {
+    "country":"Bosnia and Herzegovina",
+    "category":"workplace",
+    "page":1,
+    "change":-47,
+    "changecalc":15.5307266667,
+    "date":"2020-04-11",
+    "value":15.531
+  }
+]
