@@ -1,5 +1,7 @@
 package com.covidpredictor.covidpredictor;
 
+import lombok.Getter;
+
 import java.util.Random;
 
 public class Model {
@@ -8,26 +10,13 @@ public class Model {
     static final double mobilityConstantVariability = 0.1;
     static final double fatalityVariability = 0.01;
 
-    double[] mobilityConstants;
-    double immunityConstant;
-    double fatalityRatio;
-    double score = 100.0;
+    private double[] mobilityConstants;
+    private double immunityConstant;
+    private double fatalityRatio;
+    @Getter
+    private double score = 100.0;
 
-    int lag;
-
-
-    /**
-     * @param mobilityConstants initial mobility constants
-     * @param immunityConstant initial immunity constant
-     * @param fatalityRatio initial fatality ratio
-     * @param lag initial lag
-     */
-    public Model(double[] mobilityConstants, double immunityConstant, double fatalityRatio, int lag) {
-        this.mobilityConstants = mobilityConstants;
-        this.immunityConstant = immunityConstant;
-        this.fatalityRatio = fatalityRatio;
-        this.lag = lag;
-    }
+    private int lag;
 
     /**
      * Generates a random model, used to seed a pool
@@ -45,6 +34,56 @@ public class Model {
     }
 
     /**
+     * @param mobilityConstants initial mobility constants
+     * @param immunityConstant initial immunity constant
+     * @param fatalityRatio initial fatality ratio
+     * @param lag initial lag
+     */
+    public Model(double[] mobilityConstants, double immunityConstant, double fatalityRatio, int lag) {
+        this.mobilityConstants = mobilityConstants;
+        this.immunityConstant = immunityConstant;
+        this.fatalityRatio = fatalityRatio;
+        this.lag = lag;
+    }
+
+    /**
+     * Given two parent models, crosses them and produces a child model
+     * which is then mutated.
+     *
+     * @param parentA
+     * @param parentB
+     */
+    public Model(Model parentA, Model parentB) {
+        double[] A = parentA.getDNA();
+        double[] B = parentB.getDNA();
+
+        double[] resultant = new double[8];
+
+        // Inherits genes 50/50 between the parents
+        Random random = new Random();
+        for (int i = 0; i < 8; i++) {
+            if (random.nextBoolean()) {
+                resultant[i] = A[i];
+            } else {
+                resultant[i] = B[i];
+            }
+        }
+
+        immunityConstant = resultant[0];
+        fatalityRatio = resultant[1];
+        lag = (int) resultant[2];
+        mobilityConstants = new double[] {
+                resultant[3],
+                resultant[4],
+                resultant[5],
+                resultant[6],
+                resultant[7],
+        };
+
+        mutate();
+    }
+
+    /**
      * Varies the values of the model based on the variability constants
      */
     public void mutate(){
@@ -57,6 +96,25 @@ public class Model {
         } else if (lag < 7) {
             lag = 0;
         }
+    }
+
+    /**
+     * Used for crossing over models, returns a list of all the model's
+     * values.
+     *
+     * @return double array of all model-specific values
+     */
+    public double[] getDNA() {
+        return new double[] {
+                immunityConstant,
+                fatalityRatio,
+                lag,
+                mobilityConstants[0],
+                mobilityConstants[1],
+                mobilityConstants[2],
+                mobilityConstants[3],
+                mobilityConstants[4]
+        };
     }
 
     /**
