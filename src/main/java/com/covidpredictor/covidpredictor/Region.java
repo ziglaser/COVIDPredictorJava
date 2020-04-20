@@ -1,5 +1,7 @@
 package com.covidpredictor.covidpredictor;
 
+import lombok.Getter;
+import org.apache.commons.csv.CSVRecord;
 import org.json.simple.JSONObject;
 
 import java.time.LocalDate;
@@ -7,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
+@Getter
 public class Region {
     private final String name;
 
@@ -22,8 +25,14 @@ public class Region {
         categories = new HashMap<>();
     }
 
-    public void addCases(LocalDate date, CaseEntry entry) {
-        caseData.put(date, entry);
+    public void addCases(LocalDate date, CSVRecord record) {
+        caseData.put(
+                date,
+                new CaseEntry(
+                        Double.parseDouble(record.get(DataHeaders.ConfirmedCases)),
+                        Double.parseDouble(record.get(DataHeaders.Fatalities))
+                )
+        );
     }
 
     public void addMovement(JSONObject entry) {
@@ -31,13 +40,14 @@ public class Region {
             categories.put((String) entry.get("category"), new HashMap<>());
         }
 
+        LocalDate date = LocalDate.parse((String) entry.get("date"));
+
         Map<LocalDate, Double> category = categories.get((String) entry.get("category"));
 
-        LocalDate date = LocalDate.parse((String) entry.get("date"));
         category.put(date, sigmoid((Double) entry.get("value")));
     }
 
-    private static double sigmoid(double x) {
+    static double sigmoid(double x) {
         return .4 * (1 + Math.exp(-.33 * x)) + .8;
     }
 
