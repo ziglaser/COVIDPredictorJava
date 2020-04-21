@@ -107,6 +107,9 @@ public class DataGenerator {
                         case "United States":
                             country = "US";
                             break;
+                        case "Dominican Republic":
+                            country = "Dominica";
+                            break;
                     }
 
                     if (countries.containsKey(country)) {

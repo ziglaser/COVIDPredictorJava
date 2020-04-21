@@ -28,7 +28,7 @@ public class Country extends Region {
             }
             regions.get(region).addCases(date, record);
         } else {
-            getCaseData().put(
+            caseData.put(
                     date,
                     new CaseEntry(
                             Double.parseDouble(record.get(DataHeaders.ConfirmedCases)),
@@ -53,13 +53,13 @@ public class Country extends Region {
                 regions.get(region).addMovement(entry);
             }
         } else {
-            if (!getCategories().containsKey((String) entry.get("category"))) {
-                getCategories().put(
+            if (!categories.containsKey((String) entry.get("category"))) {
+                categories.put(
                         (String) entry.get("category"),
                         new HashMap<>()
                 );
             }
-            getCategories().get((String) entry.get("category")).put(
+            categories.get((String) entry.get("category")).put(
                     date, sigmoid((Double) entry.get("value"))
             );
         }

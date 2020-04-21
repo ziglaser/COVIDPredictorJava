@@ -13,9 +13,9 @@ import java.util.TreeMap;
 public class Region {
     private final String name;
 
-    private Map<LocalDate, CaseEntry> caseData;
+    protected Map<LocalDate, CaseEntry> caseData;
 
-    private Map<String, Map<LocalDate, Double>> categories;
+    protected Map<String, Map<LocalDate, Double>> categories;
 
     public Region(String name) {
         this.name = name;
