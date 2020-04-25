@@ -1,5 +1,6 @@
-package com.covidpredictor.covidpredictor;
+package CaseData;
 
+import com.covidpredictor.covidpredictor.DataHeaders;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 import org.json.simple.JSONArray;
@@ -26,6 +27,7 @@ public class DataGenerator {
 
         caseData();
         movementData();
+        populationData();
     }
 
     private void caseData() {
@@ -138,7 +140,35 @@ public class DataGenerator {
                 e.printStackTrace();
             }
         }
+    }
 
+    private void populationData() {
+        List<String> files = new ArrayList<>();
+
+        try (Stream<Path> walk = Files.walk(Paths.get("src/main/resources/data/population"))) {
+
+            files = walk.map(Path::toString)
+                    .filter(f -> f.endsWith(".csv")).collect(Collectors.toList());
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        for (String file : files) {
+            System.out.println(file);
+            Iterable<CSVRecord> records = null;
+
+            try {
+                Reader reader = new FileReader(file);
+                records = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(reader);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            for (CSVRecord record : records) {
+                System.out.println(record.get("Region") + " " + record.get("Population"));
+            }
+        }
     }
 
     public static void main(String[] args) {

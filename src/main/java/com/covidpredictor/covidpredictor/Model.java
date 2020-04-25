@@ -16,6 +16,7 @@ public class Model {
     @Getter
     private double score = 100.0;
 
+    @Getter
     private int lag;
 
     /**

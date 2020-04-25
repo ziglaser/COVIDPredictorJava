@@ -1,5 +1,6 @@
-package com.covidpredictor.covidpredictor;
+package CaseData;
 
+import com.covidpredictor.covidpredictor.DataHeaders;
 import org.apache.commons.csv.CSVRecord;
 import org.json.simple.JSONObject;
 

@@ -1,19 +1,16 @@
-package com.covidpredictor.covidpredictor;
+package CaseData;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
 /**
  * Stores case data for a single day
  */
-@Getter
-class CaseEntry {
+@Data
+public class CaseEntry {
     private final double cases;
     private final double fatalities;
 
-    @Setter
     private double dailyCases;
-    @Setter
     private double dailyFatalities;
 
     public CaseEntry(double cases, double fatalities) {
